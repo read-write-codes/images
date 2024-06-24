@@ -1,2 +1,1 @@
-docker pull rockylinux:8.9
-docker pull rockylinux:9
+FROM rockylinux:8.9
